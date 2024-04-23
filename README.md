@@ -16,3 +16,5 @@ Each exercise is organized into its own directory along with its corresponding t
 
 ## 💡 Contributing
 Feel free to contribute to this repository by adding additional exercises or improving existing ones. **I would love to review your pull request and learn with you**! 
+
+> Made with love by Jaque Dreyer 🧡
