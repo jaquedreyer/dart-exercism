@@ -1,5 +1,5 @@
-<p align="center">
- <img alt="Dart Logo" width="100" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">      
+<p align="left">
+ <img alt="Dart Logo" width="100" img src="https://assets.exercism.org/tracks/dart.svg">      
 </p>
 
 # Dart Exercism Solutions
